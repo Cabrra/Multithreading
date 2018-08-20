@@ -38,9 +38,7 @@ This plays multiple games of Tic-Tac-Toe using multiple threads controlling the 
 	
 ## 4. Drinking Game
 
-![Gas TicTac](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/multithread/TicTacToe.png)
-
-When dealing with threads and the need to access multiple mutex-protected resources, there is the possibility for ìdeadlockî to occur. Deadlock (sometimes called ìdeadly embraceî) is a situation where two or more competing actions are waiting for the other to finish, and thus neither ever does. 
+When dealing with threads and the need to access multiple mutex-protected resources, there is the possibility for ‚Äúdeadlock‚Äù to occur. Deadlock (sometimes called ‚Äúdeadly embrace‚Äù) is a situation where two or more competing actions are waiting for the other to finish, and thus neither ever does. 
 
 + Arguments:
 	+ drinkerCount                 Number of drinkers.
