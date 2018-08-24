@@ -63,7 +63,7 @@ Please read [CONTRIBUTING.md](https://github.com/Cabrra/Contributing-template/bl
 
 ## Authors
 
-* **Jagoba "Jake" Marcos** - Particle Effect Engineer, Particle Tool, Gluttony, Ambush Ninjas AI, Puzzle Logic, Stealth System - [Cabrra](https://github.com/Cabrra)
+* **Jagoba "Jake" Marcos** - [Cabrra](https://github.com/Cabrra)
 
 ## License
 
