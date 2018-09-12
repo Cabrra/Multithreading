@@ -3,7 +3,7 @@ Multithreading
 
 ## 1. Race Condition
 
-![Race](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/multithread/race.png)
+![Race](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/multithread/race.png)
 
 Situations arise where several processes or threads access and manipulate the same data concurrently. The outcome of the execution depends on the particular order in which the accesses take place.  This is called a race condition.
 
@@ -28,7 +28,7 @@ Threads have two different modes of execution: joinable and detached. this small
 
 ## 3. Tic Tac Toe
 
-![TicTac](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/multithread/TicTacToe.png)
+![TicTac](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/multithread/TicTacToe.png)
 
 This plays multiple games of Tic-Tac-Toe using multiple threads controlling the flow of each game using condition variables.
 
@@ -47,7 +47,7 @@ When dealing with threads and the need to access multiple mutex-protected resour
 
 ## 5. Reservation
 
-![Gas Station](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/multithread/ReservationSystem.png)
+![Gas Station](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/multithread/ReservationSystem.png)
 
 Simulation of a gas station with a fixed number of cars trying to full up at the station's two gas pumps.
 
